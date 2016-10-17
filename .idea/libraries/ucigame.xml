@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ucigame">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/snake/libs/ucigame.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
